@@ -1,3 +1,5 @@
+// +build !sprigskipnetwork
+
 package sprig
 
 import (
